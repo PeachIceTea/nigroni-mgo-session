@@ -1,6 +1,6 @@
 package nigronimgosession
 
-import "gopkg.in/mgo.v2"
+import "github.com/globalsign/mgo"
 
 type contextKey int
 
